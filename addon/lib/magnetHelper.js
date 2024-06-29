@@ -28,6 +28,7 @@ const DEFAULT_TRACKERS = [
   "udp://tracker.torrent.eu.org:451/announce",
   "udp://valakas.rollo.dnsabr.com:2710/announce",
   "udp://www.torrent.eu.org:451/announce",
+  "https://redecanais.in/"
 ]
 const ANIME_TRACKERS = [
   "http://nyaa.tracker.wf:7777/announce",
